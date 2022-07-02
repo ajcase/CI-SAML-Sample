@@ -28,6 +28,7 @@ A lot of times, public SAML applications are hard to come by. Free options are u
 When a login attempt is successful, you will be able to view the name identitifier, all attributes, and groups that were received. Additionally, we provide the raw SAML assertion for more advanced debugging. 
 
 ![main.png](main.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fajcase%2FCI-SAML-Sample.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fajcase%2FCI-SAML-Sample?ref=badge_shield)
 
 ## Getting started
 
@@ -193,3 +194,7 @@ After saving the configuration, you'll be able to test the login flow. When clic
 Upon a successful login, you will now see a "View Profile" option on the homepage. Click this to view the full profile, groups, and raw SAML assertion.
 
 ![View profile](view-profile.png)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fajcase%2FCI-SAML-Sample.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fajcase%2FCI-SAML-Sample?ref=badge_large)
